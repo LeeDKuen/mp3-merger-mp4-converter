@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/distribution
+build/
+dist/
+*.spec
+
+# App-generated outputs
+mp3_merger/output/
+mp4_converter/output/
+
+# Local media/test files
+mp3/
+output/
+*.mp3
+*.mp4
+
+# Local background images
+bg.jpg
+mp4_converter/bg.jpg
